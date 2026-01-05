@@ -6,4 +6,4 @@ matrix:
   cols: 4
   diode_direction: COL2ROW
 microcontroller: nrf52840
-board: nice_nano_v2
+board: adafruit_feather_nrf52840
