@@ -8,5 +8,5 @@
 # Example with Studio in docs: https://zmk.dev/docs/development/studio
 ---
 include:
-  - board: nice_nano_v2
+  - board: adafruit_feather_nrf52840
     shield: feather_mouse
